@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Postinstall Manager
+Comment=Simple post installation scripts in GUI manager.
+Exec=./postinstall
+Icon=dots
+Path=/bin/postinstall.d
+Terminal=false
+StartupNotify=false
+GenericName=Post Install Manager
+Categories=System;Utility;Szmelc;
