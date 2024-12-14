@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Power Manager
+Comment=Open Power Manager in Terminator Dropdown
+Exec=/bin/termdrop --profile="Green" "" "" "bash -i -c '/bin/pwr; exec bash'"
+Terminal=false
+Type=Application
+Icon=org.rnd2.cpupower_gui-panel
+Categories=System;Utility;Szmelc;
+StartupNotify=false
+Path=
