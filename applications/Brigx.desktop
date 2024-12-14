@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Screen Brightness Manager
+Comment=Open Screen Brightness Manager in Terminator Dropdown
+Exec=/bin/termdrop --profile="Green" "" "" "bash -i -c '/bin/brigx; exec bash'"
+Terminal=false
+Type=Application
+Icon=osd-shutd-screen
+Categories=System;Utility;Szmelc;
+StartupNotify=false
+Path=
