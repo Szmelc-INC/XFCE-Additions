@@ -23,6 +23,7 @@
   <Menu>
     <Name>Category Name</Name>
     <Include>
+      <Category>Category</Category>	
       <Filename>Launcher-Name.desktop</Filename>
     </Include>
   </Menu>
@@ -49,4 +50,18 @@ Terminal=false
 StartupNotify=false
 GenericName=Post Install Manager
 Categories=System;Utility;Szmelc;
+```
+
+---
+
+# Directories
+> ### .directory files
+> `/usr/share/desktop-directories` \
+
+> Example .directory file structure
+```bash
+[Desktop Entry]
+Type=Directory
+Name=Szmelc
+Icon=/usr/local/share/icons/entropy-logo.png
 ```
