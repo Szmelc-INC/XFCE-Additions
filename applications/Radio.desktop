@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Szmelc FM
+Comment=Open Szmelc FM Radio Player in Terminator Dropdown
+Exec=/bin/termdrop --profile="Green" "" "" "bash -i -c '/bin/szmelc-fm/radio; exec bash'"
+Terminal=false
+Type=Application
+Icon=radiotray_connecting
+Categories=System;Utility;Szmelc;
+StartupNotify=false
+Path=
