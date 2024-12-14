@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ISO Etcher
+Comment=Open ISO Etcher in Terminator Dropdown
+Exec=/bin/termdrop --profile="Green" "" "" "bash -i -c '/bin/setch; exec bash'"
+Terminal=false
+Type=Application
+Icon=isomaster
+Categories=System;Utility;Szmelc;
+StartupNotify=false
+Path=
