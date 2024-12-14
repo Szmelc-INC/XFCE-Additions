@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=YouTube Terminal
+Comment=Open YouTube Terminal Client in Terminator Dropdown
+Exec=/bin/termdrop --profile="Green" "" "" "bash -i -c '/bin/ytest; exec bash'"
+Terminal=false
+Type=Application
+Icon=youtube-indicator-downloading-light
+Categories=System;Utility;Szmelc;
+StartupNotify=false
+Path=
