@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Apprun
+Comment=Open Apprun in Terminator Dropdown
+Exec=/bin/termdrop --profile="Green" "" "" "bash -i -c '/bin/apprun; exec bash'"
+Terminal=false
+Type=Application
+Icon=start-here
+Categories=System;Utility;Szmelc;
+StartupNotify=false
+Path=
