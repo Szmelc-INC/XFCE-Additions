@@ -1,0 +1,49 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+ 
+ <!-- Entropy Linux Utility Applet -->
+
+<Menu>
+  <Name>Misc</Name>
+
+  <DefaultAppDirs/>
+  <DefaultDirectoryDirs/>
+  
+  <!-- Utilities -->
+  <Menu>
+    <Name>Utility</Name>
+    <Include>
+      <Filename>onboard.desktop</Filename>
+      <Filename>thunar.desktop</Filename>
+    </Include>
+  </Menu>
+
+  <!-- Szmelc.INC Originals -->
+  <Menu>
+    <Name>Szmelc</Name>
+    <Include>
+      <Filename>Desktop-Tweaks.desktop</Filename>
+      <Filename>Sxdlp.desktop</Filename>
+      <Filename>Rgxkill.desktop</Filename>
+      <Filename>Pwr.desktop</Filename>
+      <Filename>Brigx.desktop</Filename>
+      <Filename>Cheats.desktop</Filename>
+      <Filename>Apprun.desktop</Filename>
+    </Include>
+  </Menu>
+  
+  <!-- Szmelc.INC Originals -->
+  <Menu>
+    <Name>Szmelc [Misc]</Name>
+    <Include>
+      <Filename>Xttx.desktop</Filename>
+      <Filename>Setch.desktop</Filename>
+      <Filename>Ytest.desktop</Filename>
+      <Filename>Radio.desktop</Filename>
+      <Filename>System-Tour.desktop</Filename>
+      <Filename>Postinstall-Manager.desktop</Filename>
+      <Filename>Mtty.desktop</Filename>
+    </Include>
+  </Menu>
+
+</Menu>
