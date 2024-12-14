@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Session Manager
+Comment=Open XttX in Terminator Dropdown
+Exec=/bin/termdrop --profile="Green" "" "" "bash -i -c '/bin/xttx; exec bash'"
+Terminal=false
+Type=Application
+Icon=session-desktop-tray
+Categories=System;Utility;Szmelc;
+StartupNotify=false
+Path=
