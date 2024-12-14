@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=System Tour
+Comment=Graphical system tour & guide
+Exec=szmelc-tour
+Icon=entropy-blue
+Path=
+Terminal=false
+StartupNotify=false
+GenericName=System tour
+Categories=System;Utility;Szmelc;
