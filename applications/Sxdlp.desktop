@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=YouTube Downloader
+Comment=Open SxDLP in Terminator Dropdown
+Exec=sxdlp
+Terminal=false
+Type=Application
+Icon=youtube-dl
+Categories=System;Utility;Szmelc;
+StartupNotify=false
+Path=
