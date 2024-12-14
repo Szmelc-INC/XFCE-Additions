@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Desktop Tweaks
+Comment=Open Desktop Tweaks in Terminator Dropdown
+Exec=/bin/termdrop --profile="Green" "" "" "bash -i -c '/home/szmelc/szmelc/bin/desktop-tweaks; exec bash'"
+Terminal=false
+Type=Application
+Icon=org.xfce.garcon
+Categories=System;Utility;Szmelc;
+StartupNotify=false
+Path=
