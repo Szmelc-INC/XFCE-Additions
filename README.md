@@ -4,7 +4,7 @@
 ---
 
 # Menus
-> ### XFCE Application Menus \
+> ### XFCE Application Menus
 > `/etc/xdg/menus/` \
 ![image](https://github.com/user-attachments/assets/a7f58f09-65fa-4821-81e5-183313d4131a)
 
