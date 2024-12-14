@@ -1,0 +1,13 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+          "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>$zmelc</Name>
+  <Directory>szmelc.directory</Directory>
+  <Menu>
+    <Name>$zmelc</Name>
+    <Include>
+      <Category>Szmelc</Category>	
+      <Filename> xxx </Filename>
+    </Include>
+  </Menu>
+</Menu>
